@@ -1,0 +1,25 @@
+
+advance style for needed:
+
+-------CSS
+-------SCSS
+-------SASS
+
+
+
+
+add chart for website.
+
+ex: bar chart, paichart, skill chart, map, user dashboard.
+
+
+D3 chart.
+link:https://observablehq.com/@d3/gallery
+
+
+NVD3 easy customize chart.
+link: https://nvd3.org/
+
+
+Samples chart.js
+link: https://www.chartjs.org/docs/next/samples/
